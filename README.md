@@ -15,6 +15,8 @@ This program serves as Patient Data Management System, utilizing the CRUD (Creat
 
 •	Feature to display patient who have been discharged from the hospital.
 
+•	Feature to display patients whose payment status has not yet been paid in full
+
 ## 1. Explanation of Application Features
 The features in this application have several options available for each feature. This program uses tabulate to work
 
@@ -29,7 +31,10 @@ This feature can be used to add new patient data.
 This feature can be used to update various data for each patient according to their needs.
 
 •	Feature to delete patient data
-This feature can be used to delete data of a patient based on patient number and name.
+This feature can be used to delete data of a patient based on patient number and name. This feature also can clear data
 
 •	Feature to display patient who have been discharged from the hospital
-This feature can display all data patient who have been discharged from the hospital.
+This feature can display all of patient data who have been discharged from the hospital.
+
+•	Feature to display patients whose payment status has not yet been paid in full
+This feature can display all of patient data whose payment status hasn't yet been paid in full and we can update the payment status to paid in full.
